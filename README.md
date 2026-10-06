@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/826A0804-....png">
+  <img src="assets/826A0804-15F3-4E55-9B99-918C3DC5ADC7.png" width="100%" alt="AeroPack">
 </p>
 <div align="center">
 
