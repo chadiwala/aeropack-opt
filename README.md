@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="826A0804-15F3-4E55-9B99-918C3DC5ADC7.png" width="100%" alt="AeroPack">
+  <img src="38718333-B57F-4718-9555-5A9F7229785D.png" width="100%" alt="AeroPack Production & Capacity Optimization">
 </p>
 <div align="center">
 
