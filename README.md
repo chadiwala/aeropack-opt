@@ -282,6 +282,9 @@ Interestingly, only **3,718 of the available 4,000 meters** of fabric are used i
 This indicates that after fabric capacity is expanded, another production constraint begins limiting further improvement.
 
 ---
+<p align="center">
+  <img src="assets/IMG_5249.jpeg" width="100%" alt="Scenario 1 Solver Results">
+</p>
 
 ### 02 — Additional Overtime
 
@@ -303,6 +306,9 @@ Profit Change = SAR 0
 > Increasing overtime capacity alone provides no economic benefit under the current resource conditions.
 
 ---
+<p align="center">
+  <img src="assets/IMG_5250.jpeg" width="100%" alt="Scenario 2 Solver Results">
+</p>
 
 ### 03 — Flexible Product Mix
 
@@ -338,6 +344,9 @@ while total production decreased from **1,380 to 1,359 units**.
 > **More production does not necessarily mean more profit.**  
 > A more profitable product mix can outperform a higher-volume production plan.
 
+<p align="center">
+  <img src="assets/IMG_5251.jpeg" width="100%" alt="Scenario 3 Solver Results">
+</p>
 ---
 
 # ⌁ Sensitivity Analysis
