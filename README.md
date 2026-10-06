@@ -372,6 +372,9 @@ with:
 | Overtime | 0 |
 
 ---
+<p align="center">
+  <img src="assets/IMG_5267.jpeg" width="100%" alt="Excel Solver Sensitivity Report">
+</p>
 
 ## Shadow Price
 
