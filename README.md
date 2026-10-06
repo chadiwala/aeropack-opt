@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# 🎒 AeroPack
+
 
 ### Production & Capacity Optimization
 
