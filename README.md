@@ -188,7 +188,9 @@ Solver was configured to:
 ---
 
 # ◉ Optimal Production Plan
-
+<p align="center">
+  <img src="assets/IMG_5247.png" width="100%" alt="Excel Solver Answer Report">
+</p>
 | Metric | Optimal Result |
 |---|---:|
 | **Maximum Weekly Profit** | **SAR 83,040** |
