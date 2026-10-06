@@ -189,7 +189,7 @@ Solver was configured to:
 
 # ◉ Optimal Production Plan
 <p align="center">
-  <img src="assets/IMG_5247.png" width="100%" alt="Excel Solver Answer Report">
+  <img src="assets/IMG_5248.jpeg" width="100%" alt="Excel Solver Answer Report">
 </p>
 | Metric | Optimal Result |
 |---|---:|
