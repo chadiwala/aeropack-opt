@@ -39,7 +39,14 @@ The project combines **Linear Programming, Excel Solver, What-If Analysis, and S
 > How should AeroPack allocate its limited production resources to maximize weekly profitability?
 
 ---
+## 📁 Project Files
 
+Explore the complete optimization models:
+
+- 📊 **[Integer Optimization Model](AeroPack_Integer_Optimization.xlsx)** — Base model, Solver solution & What-If scenarios.
+- 📈 **[LP & Sensitivity Analysis](AeroPack_LP_Sensitivity_Analysis.xlsx)** — LP relaxation & sensitivity report.
+
+---
 ## ◈ Business Problem
 
 AeroPack must determine how many units of each backpack model should be produced every week.
